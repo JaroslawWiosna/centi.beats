@@ -12,6 +12,16 @@ gcc -static -O3 -g main.c -o centi.beats
 ### https://en.wikipedia.org/wiki/Swatch_Internet_Time
 ### https://en.wikipedia.org/wiki/Decimal_time#France
 
+## .beats per unit of time 
+
+```
+Unit 	     Beats conversion
+1 day           1,000 .beats
+1 hour           41.6 .beats
+1 min 26.4 s        1 .beat
+1 min           0.694 .beats
+1 s          0.011574 .beats
+```
 
 ```
 /*
