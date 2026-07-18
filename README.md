@@ -1,5 +1,18 @@
 # centi.beats
 
+```console
+$ make 
+gcc -static -O3 -g main.c -o centi.beats
+./centi.beats
+21:31:14 @896.70[CEST] - 19:31:14 @813.36[UTC] - centi.beats  @855.03
+```
+
+## Further reading:
+
+### https://en.wikipedia.org/wiki/Swatch_Internet_Time
+### https://en.wikipedia.org/wiki/Decimal_time#France
+
+
 ```
 /*
  * centi.beats
